@@ -1,6 +1,6 @@
 # FhirStructs
 
-**TODO: Add description**
+**FHIR STU3 Resource structs.**
 
 ## Installation
 
