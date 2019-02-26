@@ -30,7 +30,7 @@ defmodule FhirStructs.MixProject do
   end
 
   defp description() do
-    "FHIR STU3 Resource structs"
+    "FHIR STU3 resource structs"
   end
 
   defp package() do
